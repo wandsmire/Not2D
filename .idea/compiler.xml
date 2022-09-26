@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="Not2D.android" target="18" />
+      <module name="Not2D.core" target="1.8" />
+      <module name="Not2D.core.main" target="1.8" />
+      <module name="Not2D.core.test" target="1.8" />
+      <module name="Not2D.desktop" target="1.8" />
+      <module name="Not2D.desktop.main" target="1.8" />
+      <module name="Not2D.desktop.test" target="1.8" />
+      <module name="Platformer.android" target="18" />
+      <module name="Platformer.core" target="1.8" />
+      <module name="Platformer.core.main" target="1.8" />
+      <module name="Platformer.core.test" target="1.8" />
+      <module name="Platformer.desktop" target="1.8" />
+      <module name="Platformer.desktop.main" target="1.8" />
+      <module name="Platformer.desktop.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
