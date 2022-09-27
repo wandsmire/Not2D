@@ -9,6 +9,7 @@ public class MyGdxGame extends ApplicationAdapter {
 	@Override
 	public void create () {
 		mygame = new com.mirwanda.nottiled.platformer.game();
+		Gdx.graphics.setFullscreenMode(Gdx.graphics.getDisplayMode());
 		mygame.create();
 		mygame.startgame( "data","index.tmx" ,false);
 	}
