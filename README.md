@@ -1,7 +1,7 @@
 # Not2D
 Not2D is NotTiled 2D game framework that you can use to create games without programming.
 All you have to do is drawing tiles in NotTiled, and use properties for game logic.
-Of course you will also need your game assets (such as sprites, textures, and sounds).
+Of course you will also need your game assets such as sprites, textures, and sounds (that you could also create using NotTiled).
 
 Not2D framework is also embedded in NotTiled, so that you can playtest your game easily before compiling.
 
