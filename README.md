@@ -13,8 +13,9 @@ Not2D is still under development. Current features:
 
 Development roadmap:
 1. Text dialogs
-2. Multiplayer Support
-3. Clear documentation
+2. Items management
+3. Multiplayer Support
+4. Clear documentation
 
 How to develop your game:
 1. Open the code in Android studio, and replace the files inside the assets folder.
